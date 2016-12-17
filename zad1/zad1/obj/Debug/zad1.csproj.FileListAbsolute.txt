@@ -1,0 +1,6 @@
+D:\Urzytkownicy\Kasia\Dokumenty\Visual Studio 2015\Projects\zad1\zad1\bin\Debug\zad1.exe.config
+D:\Urzytkownicy\Kasia\Dokumenty\Visual Studio 2015\Projects\zad1\zad1\obj\Debug\zad1.csprojResolveAssemblyReference.cache
+D:\Urzytkownicy\Kasia\Dokumenty\Visual Studio 2015\Projects\zad1\zad1\bin\Debug\zad1.exe
+D:\Urzytkownicy\Kasia\Dokumenty\Visual Studio 2015\Projects\zad1\zad1\bin\Debug\zad1.pdb
+D:\Urzytkownicy\Kasia\Dokumenty\Visual Studio 2015\Projects\zad1\zad1\obj\Debug\zad1.exe
+D:\Urzytkownicy\Kasia\Dokumenty\Visual Studio 2015\Projects\zad1\zad1\obj\Debug\zad1.pdb
